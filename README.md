@@ -1,14 +1,8 @@
 
-# XD Toolbox
+# The "Stay Cuious" List
 
-A curated list of awesome tools and files for making your work look... well, awesome!
-
-The organization for this toolbox is based on the idea of the Lean UX model where XD practitioners can jump in on any stage of the process and work the problem.
-![Lean UX Model](https://i.imgur.com/77hBaTj.png)
-
-### Contributing
-
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) for instructions, and check to make sure what you're posting isn't already in the list. And of course, thanks to all [contributors](https://github.com/VCUBrandcenter/xd-toolbox/graphs/contributors) you're __awesome__!
+Built from a project to help Experience Designers make better work, I'm extending this list to be a resource for anyone who's in a rut.
+Here's a compiled list of tools, inspiration, and randomness to get your mojo back.
 
 ## Contents
 ### Research
