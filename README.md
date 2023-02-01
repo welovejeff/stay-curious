@@ -4,6 +4,14 @@
 Built from a project to help Experience Designers make better work, I'm extending this list to be a resource for anyone who's in a rut.
 Here's a compiled list of tools, inspiration, and randomness to get your mojo back.
 
+- [Beauty Is Embarassing](https://www.youtube.com/watch?v=rUgT9pZF7Q0) - Documentary about Wayne White
+- [I've Been 12 Forever](https://www.youtube.com/watch?v=0-jm6qb7hmA) - Documentary about Michele Gondry
+- [Light & Magin](https://www.disneyplus.com/series/light-magic/3OtlwhtW6Z7E) - Documentary about ILM
+- [Meowwolf - Origin Story](https://originstory.mw/)
+- [Abstract - The Art of Design](https://www.youtube.com/watch?v=PHXxKZkeFmc) - Netflix show about creatives
+- [Art & Copy](https://www.youtube.com/watch?v=zq0fMT-hrbo) - Ad Documentary, actually worth watching 
+- [Beautiful Losers](https://www.imdb.com/title/tt0430916/) - DIY artists and designers who inadvertently affected the art world
+
 ## Contents
 ### Research
 - [Inspiration](#inspiration)
